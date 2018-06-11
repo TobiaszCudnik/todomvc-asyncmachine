@@ -1,6 +1,6 @@
 # TodoMVC on AsyncMachine
 
-Sample TodoMVC app showing how [AsyncMachine](https://github.com/TobiaszCudnik/asyncmachine) can be used as a classic MVC controller.
+Sample TodoMVC app showing how [AsyncMachine](https://github.com/TobiaszCudnik/asyncmachine) can be used as a classic MVC controller with **React** as a view.
 
 Based on [Redux TodoMVC](https://github.com/reduxjs/redux/tree/master/examples/todomvc), but **Redux got replaced with AsyncMachine**.
 
